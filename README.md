@@ -14,7 +14,7 @@ This repository is a curated collection of projects that showcase my skills, pro
 
 I'm passionate about collaboration and innovation. Whether you're looking for a developer to join your team, contribute to an open-source project, or explore a new idea together, I'm just an email away. Let's turn dreams into code!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/samuelsntr/) or drop me an email at [dodisamuel20@gmail.com]. Feel free to explore my repositories, leave feedback, or even grab a virtual coffee for a chat.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/samuelsntr/) or drop me an email at dodisamuel20@gmail.com. Feel free to explore my repositories, leave feedback, or even grab a virtual coffee for a chat.
 
 Let's turn lines of code into something extraordinary! 🚀
 
