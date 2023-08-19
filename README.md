@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Samuel, a just a guy who loves crafting digital experiences through code. 
+I'm Samuel, i'm just a guy who loves crafting digital experiences through code. 
 
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on Mobile Developing
